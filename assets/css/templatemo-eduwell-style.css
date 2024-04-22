@@ -819,6 +819,7 @@ section.our-courses .naccs {
 
 section.our-courses .naccs .menu div {
   padding: 15px 30px;
+  height: 60px;
   text-align: center;
   border-radius: 5px !important;
   margin-bottom: 40px;
