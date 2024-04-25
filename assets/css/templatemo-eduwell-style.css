@@ -231,6 +231,18 @@ section {
 .section-heading p {
   margin-top: 30px;
 }
+@media only screen and (max-width: 768px) {
+  .col-lg-4 {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .col-lg-4 {
+    width: 100%;
+    margin-left: 0;
+  }
+}
 
 
 /* 
