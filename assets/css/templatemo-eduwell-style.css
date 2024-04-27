@@ -1432,7 +1432,10 @@ section.our-team ul.nacc li .right-image {
 
 section.our-team ul.nacc li .right-image img {
   border-top-right-radius: 15px;
+  height: 370px;
+  width:260px;
   border-bottom-right-radius: 15px;
+  margin-right:50px;
 }
 
 section.our-team ul.nacc li .left-content {
